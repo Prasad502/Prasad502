@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://about-prasad-labade.netlify.app)**
 
-- 📫 How to reach me **digitalchamp2016@gmail.com**
+- 📫 How to reach me **prasadlabade9952@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often , ** also interested in 3D graphics development.
 
