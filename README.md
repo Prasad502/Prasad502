@@ -53,11 +53,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Prasad502/github-readme-activity-graph"><img alt="ROADSTR's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prasad502&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
